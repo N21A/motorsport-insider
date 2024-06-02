@@ -1,0 +1,19 @@
+{
+  "name": "motorsport-insider",
+  "version": "1.0.0",
+  "description": "**Motorsport Insider** is a web application designed to search for and display the latest press releases from motorsport media centres worldwide. Users can filter news by continent, ensuring they stay updated with the latest developments in their region of interest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
